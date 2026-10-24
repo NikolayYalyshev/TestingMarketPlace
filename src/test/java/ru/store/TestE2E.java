@@ -81,6 +81,3 @@ public class TestE2E extends BaseTest{
                 "Стоимость со скидкой на странице доставки не совпадает с ценой из корзины!");
     }
 }
-
-//TODO все переписать на Selenide
-//TODO Начать изучать Playwright
